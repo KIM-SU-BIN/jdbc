@@ -5,14 +5,10 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.Scanner;
 
 public class AuthorSelect {
 
 	public static void main(String[] args) {
-		
-		Scanner sc = new Scanner(System.in);
-		sc.close();
 		
 		// 0. import java.sql.*;
 		Connection conn = null;
