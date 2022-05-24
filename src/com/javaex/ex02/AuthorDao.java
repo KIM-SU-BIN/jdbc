@@ -8,6 +8,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.javaex.ex04.AuthorVo;
+
 /************************
  *Dao(Data Access Object)
  *DataBase(오라클: 우리가 사용하는 것은 오라클이지만, 그 회사에서 사용하는 것은 다를 수 있흠)관련된 일을 하는 클래스
