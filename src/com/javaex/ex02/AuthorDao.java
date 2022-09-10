@@ -17,7 +17,7 @@ import com.javaex.ex04.AuthorVo;
 
 public class AuthorDao {
 	//필드
-	
+	//
 	//생성자
 	
 	//메소드 GS : 현재 필드가 없어서 생성X
